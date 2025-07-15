@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 
 ### Hi 👋
 
-I've been working as a software developer for more than five years and I've always been involved in software development lifecycles.
+After learning Excel VBA on my own, I've become passionate about development. 
 
-After learning the Excel VBA language on my own, I became passionate about development. 
+With 5+ years of experience in software development, particularly in the financial sector and enterprise systems, I bring a strong foundation in scalable architecture, backend technologies, and systems integration.
 
-I've a bachelor's degree in software engineering, a postgraduate degree in software architecture, and an Oracle Certified Associate Java 8 certification.
+I hold professional certifications from Oracle, as well as a post-graduate diploma in Software Architecture from University Infnet (2024) and a bachelor’s degree in Software Engineering from University Center Maringá (2020), which have provided me with a strong theoretical foundation to complement my practical experience. 
+
+My expertise includes a blend of Java development and microservices architectures, using technologies such as Java, Spring Framework, C#, .Net Core, React, MySQL, SQL Server, PostgreSQL, AWS S3, RabbitMQ, and Redis, but not limited to these only.
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/idinaldoteteo)
